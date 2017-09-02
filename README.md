@@ -1,21 +1,20 @@
 # Snake
-
+Collect food pellets, try not to run into yourself or the wall. Good old classic fun. 
+[Play the Game](https://kpable.github.io/builds/Snake/index.html)
 #### Purpose
-
-Try to remake a simple game. Complete a second game in a ten game challenge. 
-
+As an introduction to the world of game development, I took on the challenge to try to remake a simple and familiar game… after Pong.
 #### Game State
-
 Work In Progress 
-
 #### Status
-
-On Hold
-
+On Hold due to my insatiable curiosity of game development.
 #### Progress
+Game can be played but it's not pretty. Snake grows, you do crash into yourself or the walls. Score tracking and high score saving. 
 
-Game can be played but its not pretty. Snake grows, you do crash into yourself, not yet walls. Well yes walls but i was also working on a wrap around walls. 
+![Snake Collision and Score](/images/snake.gif)
 
+A few things left to complete (although some may not be needed)
+- Start menu
+- Game start countdown
+- Game over menus
 #### Remarks
-
-I did something similar using LibGDX and i tried to port it over to Unity. I think its coming along well. This is game 2 of a 10 game challenge i found a while back. I will need to get back to this eventually. 
+I did something similar using LibGDX and this is my port of it over to Unity. I think it's coming along well. I will need to get back to this eventually for nothing else than to finish this challenge. 
