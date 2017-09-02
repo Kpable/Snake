@@ -12,7 +12,7 @@ Game can be played but it's not pretty. Snake grows, you do crash into yourself 
 
 ![Snake Collision and Score](/images/snake.gif)
 
-A few things left to complete (although some may not be needed)
+A few things that would be nice to complete (although arguably not be needed)
 - Start menu
 - Game start countdown
 - Game over menus
