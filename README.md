@@ -4,9 +4,9 @@ Collect food pellets, try not to run into yourself or the wall. Good old classic
 #### Purpose
 As an introduction to the world of game development, I took on the challenge to try to remake a simple and familiar game… after Pong.
 #### Game State
-Work In Progress 
+~~Work In Progress~~ Complete
 #### Status
-On Hold due to my insatiable curiosity of game development.
+~~On Hold due to~~ Complete dispite my insatiable curiosity of game development.
 #### Progress
 Game can be played but it's not pretty. Snake grows, you do crash into yourself or the walls. Score tracking and high score saving. 
 
